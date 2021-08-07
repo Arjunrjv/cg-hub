@@ -1,5 +1,6 @@
 from tkinter import * 
 
+#hi my name is arjun
 #--background-colors 👇
 
 Bg_1 = "#34343B"
